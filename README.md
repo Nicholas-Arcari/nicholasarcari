@@ -18,7 +18,7 @@ Studente universitario in Scienze Informatiche presso l'Università di Parma (UN
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicholas-arcari/nicholasarcari/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicholas-arcari/nicholasarcari/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicholas-Arcari/Nicholas-Arcari/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicholas-Arcari/Nicholas-Arcari/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Nicholas-Arcari/Nicholas-Arcari/output/github-snake.svg" />
 </picture>
