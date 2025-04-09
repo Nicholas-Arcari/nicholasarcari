@@ -16,8 +16,9 @@ Studente universitario in Scienze Informatiche presso l'Università di Parma (UN
 ![](https://nirzak-streak-stats.vercel.app/?user=Nicholas-Arcari&theme=dark&hide_border=false)<br/>
 
 ###
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/nicholas-arcari/nicholasarcari/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicholas-arcari/nicholasarcari/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicholas-arcari/nicholasarcari/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
